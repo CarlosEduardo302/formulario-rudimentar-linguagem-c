@@ -9,13 +9,11 @@
  
 <p align='center'>
  
-<img alt='Principal linguagem do projeto' src='https://img.shields.io/github/languages/top/fransilva0/formulario-rudimentar-linguagem-c?color=56BEB8'>
+<img alt="GitHub top language" src="https://img.shields.io/github/languages/top/fransilva0/formulario-rudimentar-linguagem-c?color=56BEB8&style=for-the-badge">
  
-<img alt='Quantidade de linguagens utilizadas' src='https://img.shields.io/github/languages/count/fransilva0/formulario-rudimentar-linguagem-c?color=56BEB8'>
+<img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/fransilva0/formulario-rudimentar-linguagem-c?color=56BEB8&style=for-the-badge">
  
-<img alt='Tamanho do repositório' src='https://img.shields.io/github/repo-size/fransilva0/formulario-rudimentar-linguagem-c?color=56BEB8'>
- 
-<img alt='Licença' src='https://img.shields.io/github/license/fransilva0/formulario-rudimentar-linguagem-c?color=56BEB8'>
+<img alt="GitHub" src="https://img.shields.io/github/license/fransilva0/formulario-rudimentar-linguagem-c?color=56BEB8&style=for-the-badge">
   
 </p>
  
