@@ -1,5 +1,5 @@
 <div align='center' id='top'>
-<img src='./logo-c' alt='logo da linguagem C' />
+<img src='./logo-c.png' alt='logo da linguagem C' width="100" />
  
 &#xa0;
  
