@@ -30,7 +30,7 @@
 ## :dart: Situacional ##
  
 <p> 
-   A empresa fictícia Start, produtora de aparelhos eletrônicos na área de tecnologia, está buscando entendender o que os seus clientes dizem sobre a empresa, para com isso,
+   A empresa fictícia Start, produtora de aparelhos tecnológicos, está buscando entendender o que os seus clientes dizem sobre a empresa, para com isso,
    elaborar um plano para o futuro da empresa de modo que esteja alinhada com os clientes atuais e futuros. Para dar início a essse plano, a Start contratou uma equipe
    multidiciplinar e separou seus integrantes em equipes menores, com missões diferentes.
 </p>
